@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zi5axFsjJLma3edJ5dIkD8yLzBm6IyJDJUZPCWskxam4jgtte48LIAAjHzRq7XVrt2ZtenunMV9+Nkhtw+Ce0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pwj9cr\\Source\\Repos\\noemi-sitku\\it_tizes\\valami\\valami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pwj9cr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
